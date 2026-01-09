@@ -1,0 +1,32 @@
+1. Open Terminal
+2. cd ~/Desktop
+3. python3 NEURALECHOES_MAIN.py
+
+
+Tinytuya lights debugging
+
+python3 -m tinytuya scan
+
+
+SUBCOMPUTER
+
+1. Open Terminal
+2. cd~/Documents
+3. Python3 NEURALECHOES_SUB.pyß
+
+
+Server reset every day
+
+1. cd somnitech-fullstack && ./start.sh
+2. To stop ctrl+c or in new terminal do cd && ./stop.sh
+3. To reset the DB" cd somnitech-fullstack/backend && ./reset.sh
+
+Preshow check cues
+
+1. Lights at FX1 (DO NOT Reset via Qlab)
+2. Check RFID
+3. Run python script on sub computer, check receipt printer
+4. Open CASE
+5. Press reset button
+6. Run python script on sub computer
+7. Run Server on this mac
