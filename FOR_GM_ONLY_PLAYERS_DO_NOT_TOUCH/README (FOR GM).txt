@@ -1,0 +1,3 @@
+1. Open terminal
+2. cd ~/FOR_GM_ONLY_PLAYERS_DO_NOT_TOUCH
+3. python3 NEURALECHOES_SUB.py
